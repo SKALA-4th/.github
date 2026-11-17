@@ -15,9 +15,13 @@ body:
     id: acceptance
     attributes:
       label: "완료 조건"
+      value: |
+        - [ ]
     validations:
       required: true
   - type: textarea
     id: references
     attributes:
       label: "참고 자료"
+      value: |
+        -

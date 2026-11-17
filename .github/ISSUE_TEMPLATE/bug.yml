@@ -7,6 +7,8 @@ body:
     id: symptom
     attributes:
       label: "현상"
+      value: |
+        -
     validations:
       required: true
   - type: textarea
@@ -23,12 +25,16 @@ body:
     id: expected
     attributes:
       label: "기대 결과"
+      value: |
+        -
     validations:
       required: true
   - type: textarea
     id: actual
     attributes:
       label: "실제 결과"
+      value: |
+        -
     validations:
       required: true
   - type: textarea
