@@ -1,4 +1,4 @@
-name: "작업"
+name: "작업 요청"
 description: "설정, 문서, 테스트, 리팩토링"
 type: "Task"
 projects: ["SKALA-4th/1"]
