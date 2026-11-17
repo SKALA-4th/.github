@@ -1,6 +1,7 @@
 name: "작업 요청"
 description: "기능 개발, 버그 수정, 리팩토링, 환경 설정 작업을 등록합니다."
 title: "[type] "
+projects: ["SKALA-4th/1"]
 body:
   - type: markdown
     attributes:
