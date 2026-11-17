@@ -8,6 +8,8 @@ body:
     attributes:
       label: "배경"
       description: "필요한 이유"
+      value: |
+        -
     validations:
       required: true
   - type: textarea
@@ -22,9 +24,13 @@ body:
     id: acceptance
     attributes:
       label: "완료 조건"
+      value: |
+        - [ ]
     validations:
       required: true
   - type: textarea
     id: references
     attributes:
       label: "참고 자료"
+      value: |
+        -
